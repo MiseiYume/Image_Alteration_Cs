@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RGBT/1.0.0": {
+        "dependencies": {
+          "OpenCL.Net": "1.0.4337.25848"
+        },
+        "runtime": {
+          "RGBT.dll": {}
+        }
+      },
+      "OpenCL.Net/1.0.4337.25848": {
+        "runtime": {
+          "lib/net40-Client/OpenCL.Net.dll": {
+            "assemblyVersion": "1.0.4337.25848",
+            "fileVersion": "1.0.4337.25848"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RGBT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenCL.Net/1.0.4337.25848": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6hwb+rumHFxDWc6+miO/VDn+hkH5MesYps3YC7geUG5SGoqdiRQAyst3pbZ8HZSaK8YZTnFc+ObCMlitDt13Ng==",
+      "path": "opencl.net/1.0.4337.25848",
+      "hashPath": "opencl.net.1.0.4337.25848.nupkg.sha512"
+    }
+  }
+}

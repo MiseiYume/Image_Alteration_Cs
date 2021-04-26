@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cloo.clSharp" Version="1.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Utilities" Version="16.9.31024.71" />
+    <PackageReference Include="OpenCL.Net" Version="1.0.4337.25848" />
+  </ItemGroup>
+
+</Project>
